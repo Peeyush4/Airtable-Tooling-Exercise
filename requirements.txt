@@ -1,0 +1,5 @@
+geopy==2.4.1
+protobuf==6.32.0
+python-dotenv==1.1.1
+Requests==2.32.5
+google-genai
